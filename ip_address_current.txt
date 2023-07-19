@@ -1,0 +1,5 @@
+Wed Jul 19 08:58:23 2023
+Interface: eno1
+IP address: 192.168.50.128
+MAC address: d4:ae:52:a5:bf:04
+
